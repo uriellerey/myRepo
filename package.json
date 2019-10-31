@@ -1,0 +1,51 @@
+{
+  "nativescript": {
+    "id": "org.nativescript.BookingEngine",
+    "tns-ios": {
+      "version": "6.0.1"
+    },
+    "tns-android": {
+      "version": "6.0.0"
+    }
+  },
+  "description": "NativeScript Application",
+  "license": "SEE LICENSE IN <your-license-filename>",
+  "repository": "<fill-your-repository-here>",
+  "scripts": {
+    "lint": "eslint \"app/**/*.js\""
+  },
+  "dependencies": {
+    "@nstudio/nativescript-floatingactionbutton": "^1.0.0",
+    "nativescript-badge-button": "^0.1.2",
+    "nativescript-batch": "^2.10.3",
+    "nativescript-checkbox": "^3.0.3",
+    "nativescript-drawingpad": "^3.1.0",
+    "nativescript-drop-down": "^5.0.2",
+    "nativescript-floatingactionbutton": "^5.1.0",
+    "nativescript-gif": "^4.0.2",
+    "nativescript-image-cache-it": "^5.0.0-alpha.3",
+    "nativescript-keyboardshowing": "^1.0.2",
+    "nativescript-material-cardview": "^2.5.0",
+    "nativescript-materialdropdownlist": "^1.0.15",
+    "nativescript-modal-datetimepicker": "^1.2.0",
+    "nativescript-ripple": "^2.2.1",
+    "nativescript-sqlite": "^2.3.3",
+    "nativescript-theme-core": "~1.0.4",
+    "nativescript-toast": "^2.0.0",
+    "nativescript-toasty": "^2.0.1",
+    "nativescript-tooltip": "^2.1.2",
+    "nativescript-ui-listview": "^7.0.5",
+    "nativescript-ui-sidedrawer": "7.0.0",
+    "nativescript-websockets": "^1.5.4",
+    "rxjs": "~6.5.0",
+    "tns-core-modules": "6.0.1"
+  },
+  "devDependencies": {
+    "eslint": "~5.8.0",
+    "nativescript-dev-webpack": "1.0.1",
+    "node-sass": "4.12.0",
+    "tns-platform-declarations": "^6.0.1"
+  },
+  "gitHead": "8c1a4866a66daab09bf5ef8e5a96472687192373",
+  "readme": "NativeScript Application"
+}

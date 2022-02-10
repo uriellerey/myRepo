@@ -43,7 +43,7 @@
   "devDependencies": {
     "eslint": "~5.8.0",
     "nativescript-dev-webpack": "1.0.1",
-    "node-sass": "4.12.0",
+    "node-sass": "7.0.0",
     "tns-platform-declarations": "^6.0.1"
   },
   "gitHead": "8c1a4866a66daab09bf5ef8e5a96472687192373",
